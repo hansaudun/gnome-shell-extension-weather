@@ -19,11 +19,11 @@ msgstr ""
 #: ../src/extension.js:235 ../src/extension.js:243 ../src/extension.js:251
 #: ../src/extension.js:259 ../src/extension.js:575
 msgid "Weather"
-msgstr ""
+msgstr "Vær"
 
 #: ../src/extension.js:237
 msgid "No location configured"
-msgstr ""
+msgstr "Lokasjon er ikke konfigurert"
 
 #: ../src/extension.js:245
 #, fuzzy
@@ -32,7 +32,7 @@ msgstr "Laster værvarsel …"
 
 #: ../src/extension.js:261
 msgid "Weather extension ready"
-msgstr ""
+msgstr "Værtillegget  er lart"
 
 #: ../src/extension.js:293 ../src/extension.js:366 ../src/extension.js:373
 msgid ", "
@@ -48,36 +48,36 @@ msgstr "I morgen"
 
 #: ../src/extension.js:457
 msgid "Yesterday"
-msgstr ""
+msgstr "I går"
 
 #: ../src/extension.js:639
 msgid "Locations"
-msgstr ""
+msgstr "Lokasjon"
 
 #: ../src/extension.js:643
 msgid "Reload Weather Information"
-msgstr ""
+msgstr "Last inn værinformasjon på nytt"
 
 #: ../src/extension.js:648
 msgid "Weather Settings"
-msgstr ""
+msgstr "Vær innstillinger"
 
 #: ../src/extension.js:812
 msgid "No weather information"
-msgstr ""
+msgstr "Ingen værinformasjon"
 
 #: ../src/extension.js:814
 #, python-format
 msgid "No weather information for %s"
-msgstr ""
+msgstr "Ingen værinformasjon for %s"
 
 #: ../src/extension.js:899
 msgid "Feels like"
-msgstr ""
+msgstr "Føles som"
 
 #: ../src/extension.js:901
 msgid "Visibility"
-msgstr ""
+msgstr "Sikt"
 
 #: ../src/extension.js:903
 #, fuzzy
@@ -96,7 +96,7 @@ msgstr "Vind:"
 
 #: ../src/extension.js:929
 msgid "No forecast information"
-msgstr ""
+msgstr "Ingen værmelding"
 
 #: ../src/extension.js:1114
 #, python-format
@@ -115,7 +115,7 @@ msgstr ""
 
 #: ../src/extension.js:1128 ../src/extension.js:1186
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 #: ../src/extension.js:1150 ../src/extension.js:1153
 msgid "VAR"
@@ -127,31 +127,31 @@ msgstr ""
 
 #: ../src/extension.js:1153
 msgid "NNE"
-msgstr ""
+msgstr "NNØ"
 
 #: ../src/extension.js:1153
 msgid "NE"
-msgstr ""
+msgstr "NØ"
 
 #: ../src/extension.js:1153
 msgid "ENE"
-msgstr ""
+msgstr "ØNØ"
 
 #: ../src/extension.js:1153
 msgid "E"
-msgstr ""
+msgstr "Ø"
 
 #: ../src/extension.js:1153
 msgid "ESE"
-msgstr ""
+msgstr "ØSØ"
 
 #: ../src/extension.js:1153
 msgid "SE"
-msgstr ""
+msgstr "SØ"
 
 #: ../src/extension.js:1153
 msgid "SSE"
-msgstr ""
+msgstr "SSØ"
 
 #: ../src/extension.js:1154
 msgid "S"
@@ -159,35 +159,35 @@ msgstr ""
 
 #: ../src/extension.js:1154
 msgid "SSW"
-msgstr ""
+msgstr "SSV"
 
 #: ../src/extension.js:1154
 msgid "SW"
-msgstr ""
+msgstr "SV"
 
 #: ../src/extension.js:1154
 msgid "WSW"
-msgstr ""
+msgstr "VSV"
 
 #: ../src/extension.js:1154
 msgid "W"
-msgstr ""
+msgstr "V"
 
 #: ../src/extension.js:1154
 msgid "WNW"
-msgstr ""
+msgstr "VNV"
 
 #: ../src/extension.js:1154
 msgid "NW"
-msgstr ""
+msgstr "NV"
 
 #: ../src/extension.js:1154
 msgid "NNW"
-msgstr ""
+msgstr "NNV"
 
 #: ../src/extension.js:1164
 msgid "$d$s knots"
-msgstr ""
+msgstr "$d$s knop"
 
 #: ../src/extension.js:1168
 msgid "$d$s mph"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../src/extension.js:1172
 msgid "$d$s km/h"
-msgstr ""
+msgstr "$d$s km/t"
 
 #: ../src/extension.js:1176
 msgid "$d$s m/s"
@@ -207,48 +207,48 @@ msgstr ""
 
 #: ../src/prefs.js:143
 msgid "Temperature Unit"
-msgstr "Temperatur:"
+msgstr "Enhet for temperatur"
 
 #: ../src/prefs.js:145
 msgid "Wind Speed Unit"
-msgstr ""
+msgstr "Enhet for vindstyrke"
 
 #: ../src/prefs.js:147
 #, fuzzy
 msgid "Pressure Unit"
-msgstr "Lufttrykk:"
+msgstr "Enhet for lufttrykk"
 
 #: ../src/prefs.js:149
 msgid "Distance Unit"
-msgstr ""
+msgstr "Enhet for avstand"
 
 #: ../src/prefs.js:151
 msgid "Position in Panel"
-msgstr ""
+msgstr "Plassering på panelet"
 
 #: ../src/prefs.js:152
 msgid "Center"
-msgstr ""
+msgstr "Sentrert"
 
 #: ../src/prefs.js:152
 msgid "Right"
-msgstr ""
+msgstr "Høyre"
 
 #: ../src/prefs.js:152
 msgid "Left"
-msgstr ""
+msgstr "Venstre"
 
 #: ../src/prefs.js:153
 msgid "Wind Direction by Arrows"
-msgstr ""
+msgstr "Vis vindretning med piler"
 
 #: ../src/prefs.js:155
 msgid "Symbolic Icons"
-msgstr ""
+msgstr "Ikonsymboler"
 
 #: ../src/prefs.js:157
 msgid "Temperature in Panel"
-msgstr "Temperatur:"
+msgstr "Temperatur på panelet"
 
 #: ../src/prefs.js:159
 msgid "Conditions in Panel"
@@ -260,12 +260,12 @@ msgstr ""
 
 #: ../src/prefs.js:320
 msgid "Name of the city"
-msgstr ""
+msgstr "Navn på sted"
 
 #: ../src/prefs.js:378
 #, python-format
 msgid "Remove %s ?"
-msgstr ""
+msgstr "Slett %s ?"
 
 #~ msgid "Please wait"
 #~ msgstr "Vent litt"
@@ -319,7 +319,7 @@ msgstr ""
 #~ msgstr "Lette snøbyger"
 
 #~ msgid "Blowing snow"
-#~ msgstr "Snøføyke"
+#~ msgstr "Snøfokk"
 
 #~ msgid "Snow"
 #~ msgstr "Snø"
